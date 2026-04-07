@@ -1,0 +1,58 @@
+{
+  "lesson_id": "grade_5_english_nouns",
+  "display_name": "Grade 5 English - Nouns",
+  "grade": "5",
+  "subject": "English",
+  "topic": "Nouns",
+  "language": "English",
+  "summary": "A noun is the name of a person, place, animal, or thing.",
+  "concepts": [
+    "Nouns name people, places, animals, or things",
+    "Examples: boy, school, dog, book",
+    "Proper nouns are special names like Ravi or Delhi"
+  ],
+  "examples": [
+    {
+      "question": "Find the noun: Ravi is going to school.",
+      "answer": "Ravi, school"
+    }
+  ],
+  "practice": {
+    "easy": [
+      {
+        "question": "Find the noun: The cat is sleeping.",
+        "answer": "cat",
+        "concept": "basic nouns"
+      },
+      {
+        "question": "Is 'dog' a noun?",
+        "answer": "yes",
+        "concept": "basic nouns"
+      }
+    ],
+    "normal": [
+      {
+        "question": "Find the nouns: The boy plays with a ball.",
+        "answer": "boy ball",
+        "concept": "noun identification"
+      },
+      {
+        "question": "Name one place noun.",
+        "answer": "school",
+        "concept": "types of nouns"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Find all nouns: Meera went to Delhi with her friend.",
+        "answer": "Meera Delhi friend",
+        "concept": "proper nouns"
+      },
+      {
+        "question": "Give one proper noun example.",
+        "answer": "Delhi",
+        "concept": "proper nouns"
+      }
+    ]
+  }
+}

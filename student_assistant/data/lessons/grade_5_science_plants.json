@@ -1,0 +1,58 @@
+{
+  "lesson_id": "grade_5_science_plants",
+  "display_name": "Grade 5 Science - Plants",
+  "grade": "5",
+  "subject": "Science",
+  "topic": "Plants",
+  "language": "English",
+  "summary": "Plants are living things that grow and make their own food using sunlight.",
+  "concepts": [
+    "Plants need sunlight, water, and air to grow",
+    "Leaves make food using sunlight",
+    "Roots absorb water from the soil"
+  ],
+  "examples": [
+    {
+      "question": "Why do plants need sunlight?",
+      "answer": "To make their own food through photosynthesis"
+    }
+  ],
+  "practice": {
+    "easy": [
+      {
+        "question": "What do roots do?",
+        "answer": "absorb water",
+        "concept": "plant parts"
+      },
+      {
+        "question": "What do leaves do?",
+        "answer": "make food",
+        "concept": "plant parts"
+      }
+    ],
+    "normal": [
+      {
+        "question": "What do plants need to grow?",
+        "answer": "sunlight water air",
+        "concept": "plant needs"
+      },
+      {
+        "question": "Which part of the plant makes food?",
+        "answer": "leaves",
+        "concept": "plant parts"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Why are roots important for plants?",
+        "answer": "they absorb water and nutrients",
+        "concept": "plant functions"
+      },
+      {
+        "question": "Explain how sunlight helps plants.",
+        "answer": "plants use sunlight to make food",
+        "concept": "photosynthesis"
+      }
+    ]
+  }
+}
